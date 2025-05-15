@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/OneDrive/Desktop/MLops/MLOPS-Experiments-With-MLFlow/mlruns/615925422470784700/06bc9a3c49bf4eeaa269d535b179a696/artifacts
+end_time: 1747289822816
+entry_point_name: ''
+experiment_id: '615925422470784700'
+lifecycle_stage: active
+run_id: 06bc9a3c49bf4eeaa269d535b179a696
+run_name: sneaky-shad-481
+run_uuid: 06bc9a3c49bf4eeaa269d535b179a696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747289822736
+status: 3
+tags: []
+user_id: Dell

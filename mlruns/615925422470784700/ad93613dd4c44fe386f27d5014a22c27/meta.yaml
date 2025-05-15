@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/OneDrive/Desktop/MLops/MLOPS-Experiments-With-MLFlow/mlruns/615925422470784700/ad93613dd4c44fe386f27d5014a22c27/artifacts
+end_time: 1747289822728
+entry_point_name: ''
+experiment_id: '615925422470784700'
+lifecycle_stage: active
+run_id: ad93613dd4c44fe386f27d5014a22c27
+run_name: angry-rat-38
+run_uuid: ad93613dd4c44fe386f27d5014a22c27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747289822622
+status: 3
+tags: []
+user_id: Dell

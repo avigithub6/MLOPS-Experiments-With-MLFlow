@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/OneDrive/Desktop/MLops/MLOPS-Experiments-With-MLFlow/mlruns/615925422470784700/0f125c4bb2b942069845b36cd0df197a/artifacts
+end_time: 1747289822609
+entry_point_name: ''
+experiment_id: '615925422470784700'
+lifecycle_stage: active
+run_id: 0f125c4bb2b942069845b36cd0df197a
+run_name: fearless-lamb-774
+run_uuid: 0f125c4bb2b942069845b36cd0df197a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747289822493
+status: 3
+tags: []
+user_id: Dell

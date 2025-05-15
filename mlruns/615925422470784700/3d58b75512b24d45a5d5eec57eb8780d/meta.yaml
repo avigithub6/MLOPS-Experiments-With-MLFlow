@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/OneDrive/Desktop/MLops/MLOPS-Experiments-With-MLFlow/mlruns/615925422470784700/3d58b75512b24d45a5d5eec57eb8780d/artifacts
+end_time: 1747289823386
+entry_point_name: ''
+experiment_id: '615925422470784700'
+lifecycle_stage: active
+run_id: 3d58b75512b24d45a5d5eec57eb8780d
+run_name: stately-stork-99
+run_uuid: 3d58b75512b24d45a5d5eec57eb8780d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747289823264
+status: 3
+tags: []
+user_id: Dell
