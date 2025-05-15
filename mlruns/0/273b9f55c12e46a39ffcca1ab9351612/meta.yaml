@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/273b9f55c12e46a39ffcca1ab9351612/artifacts
+end_time: 1747283791723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 273b9f55c12e46a39ffcca1ab9351612
+run_name: gentle-fox-818
+run_uuid: 273b9f55c12e46a39ffcca1ab9351612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747283791518
+status: 3
+tags: []
+user_id: Dell

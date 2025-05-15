@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/619129743627481907/c8369b2653434e80adfb1bbc70362d7d/artifacts
+end_time: 1747288961133
+entry_point_name: ''
+experiment_id: '619129743627481907'
+lifecycle_stage: active
+run_id: c8369b2653434e80adfb1bbc70362d7d
+run_name: silent-ox-757
+run_uuid: c8369b2653434e80adfb1bbc70362d7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747288952968
+status: 3
+tags: []
+user_id: Dell

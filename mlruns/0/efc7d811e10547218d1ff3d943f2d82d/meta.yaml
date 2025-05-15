@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/efc7d811e10547218d1ff3d943f2d82d/artifacts
+end_time: 1747284521750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efc7d811e10547218d1ff3d943f2d82d
+run_name: enchanting-cod-427
+run_uuid: efc7d811e10547218d1ff3d943f2d82d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747284519469
+status: 3
+tags: []
+user_id: Dell

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/619129743627481907/30c5308b4f4b4aeead35588dae431675/artifacts
+end_time: 1747287060168
+entry_point_name: ''
+experiment_id: '619129743627481907'
+lifecycle_stage: active
+run_id: 30c5308b4f4b4aeead35588dae431675
+run_name: bald-lamb-666
+run_uuid: 30c5308b4f4b4aeead35588dae431675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747287046813
+status: 3
+tags: []
+user_id: Dell

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/619129743627481907/4a893d21877f4d40b773a4693ffd6bc5/artifacts
+end_time: 1747285219853
+entry_point_name: ''
+experiment_id: '619129743627481907'
+lifecycle_stage: active
+run_id: 4a893d21877f4d40b773a4693ffd6bc5
+run_name: amusing-horse-138
+run_uuid: 4a893d21877f4d40b773a4693ffd6bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747285219285
+status: 3
+tags: []
+user_id: Dell
